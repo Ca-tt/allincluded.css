@@ -1,12 +1,11 @@
 {
-  "name": "allnames.css",
-  "version": "1.0.0",
-  "description": "",
+  "name": "allincluded.css",
+  "version": "1.1.0",
+  "description": "All your favourite css class names and frameworks features - all included in this one tiny library 👍 ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["css", "framework", "css framework", "css library", "css classes"],
+  "author": "Damir Lukianenko from @expand-code",
   "license": "ISC"
 }
